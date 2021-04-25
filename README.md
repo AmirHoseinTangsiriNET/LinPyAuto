@@ -4,5 +4,13 @@
     ![Linux Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build)
     ![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=RED)
 
+## Installation:
+➜  ~ git clone https://github.com/AmirHoseinTangsiriNET/LinAuto/
+
+➜  ~ cd LinAuto
+
+➜  ~ pip3 install paramiko
+
+➜  ~ python Paramiko.py
 
 
