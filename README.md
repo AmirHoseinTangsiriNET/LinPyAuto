@@ -13,4 +13,8 @@
 
 ➜  ~ python Paramiko.py
 
+## Prerequisite
+* Python 3 
+* Paramiko Module
+* Introduction To Python Programming
 
