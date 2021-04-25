@@ -16,7 +16,7 @@
 
 ➜  ~ pip3 install paramiko
 
-➜  ~ python Paramiko.py
+➜  ~ python LinAuto.py
 
 ## Prerequisite
 * Python 3 
