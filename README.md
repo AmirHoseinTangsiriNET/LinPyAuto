@@ -22,4 +22,7 @@
 * Python 3 
 * Paramiko Module
 * Introduction To Python Programming
+<p align="center">
+  <img src="Img/Python-Logo.gif" alt="Master">
+</p>
 
