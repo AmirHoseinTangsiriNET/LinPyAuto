@@ -1,7 +1,7 @@
 ## Sample Script For Off-Box Network Automation On Linux Distributions
 
 <p align="center">
-  <img src="Img/Off-Box.jpg" alt="Master">
+  <img src="Img/Off-Box.JPG" alt="Master">
 </p>
 
     [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
