@@ -10,13 +10,13 @@
    ![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=RED)
 
 ## Installation:
-➜  ~ git clone https://github.com/AmirHoseinTangsiriNET/LinAuto/
+➜  ~ git clone https://github.com/AmirHoseinTangsiriNET/LinPyAuto/
 
 ➜  ~ cd LinAuto
 
 ➜  ~ pip3 install paramiko
 
-➜  ~ python LinAuto.py
+➜  ~ python3 LinPyAuto.py
 
 ## Prerequisite
 * Python 3 
