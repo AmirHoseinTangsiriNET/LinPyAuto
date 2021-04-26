@@ -18,6 +18,9 @@
 
 ➜  ~ python3 LinPyAuto.py
 
+## Tutorial
+#### https://youtu.be/8q5NhuVApII
+
 ## Prerequisite
 * Python 3 
 * Paramiko Module
