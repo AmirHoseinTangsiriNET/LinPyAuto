@@ -19,7 +19,7 @@
 ➜  ~ python3 LinPyAuto.py
 
 ## Tutorial
-#### https://youtu.be/8q5NhuVApII
+#### https://youtu.be/QCx9PoxhHLY
 
 ## Prerequisite
 * Python 3 
