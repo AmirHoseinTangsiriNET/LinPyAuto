@@ -1,4 +1,4 @@
-## Sample Script For Off-Box Network Automation On Linux Distributions
+## Off-Box Network Automation On Linux Distributions
 
 <p align="center">
   <img src="Img/LinPyAuto.gif" alt="Master">
