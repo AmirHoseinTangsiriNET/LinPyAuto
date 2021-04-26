@@ -16,5 +16,3 @@ stdin.write(l_password +'\n')
 stdin.flush()
 for line in stdout.read().splitlines():        
     print ('host: %s: %s' % (l_host, line))
-
-#Coded By AmirHosein TangsiriNezhad
