@@ -18,7 +18,7 @@ Note: This Script Is A Sample For Only Off-Box Network Automation On Linux Distr
 
 ➜  ~ cd LinAuto
 
-➜  ~ pip3 install paramiko
+➜  ~ pip3 install paramiko or pip3 install -r requirements.txt
 
 ➜  ~ python3 LinPyAuto.py
 
